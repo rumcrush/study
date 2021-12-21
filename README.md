@@ -1,14 +1,5 @@
-onefive drop drop!
-onefive drop drop!
+### 빅데이터, 머신러닝, 딥러닝 개념 및 코드 정리 
 
-
-
-
-hello world!!!
-git commit -m "first commit!"
-exit
-cd C:\study
-exit
 
 
 
